@@ -17,6 +17,8 @@ print("Hiii")
 
 #How to run a code
 * ```python
-* python first.py
-
-```
+   python first.py
+  ```
+* Have fun
+* https://www.google.com/
+* [Click here to open google](https://www.google.com/)
